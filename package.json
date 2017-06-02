@@ -1,5 +1,5 @@
 {
-  "name": "listener-get-node-route",
+  "name": "get-node-route",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
